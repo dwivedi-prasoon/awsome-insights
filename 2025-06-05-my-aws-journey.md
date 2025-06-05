@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "My AWS Cloud Journey: From Curiosity to Architecture"
