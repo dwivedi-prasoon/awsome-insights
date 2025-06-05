@@ -1,0 +1,10 @@
+title: AWSome Insights
+author: Prasoon Dwivedi
+email: dwivedi.prasoon@gmail.com
+description: >
+  My Journey through the AWS Cloud Landscape
+baseurl: ""
+url: "https://dwivedi-prasoon.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
