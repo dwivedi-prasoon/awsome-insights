@@ -1,8 +1,8 @@
 
 ---
 layout: home
-title: Welcome
+title: "Welcome"
 ---
 
-<h2>Welcome to AWSome Insights</h2>
+# Welcome to AWSome Insights
 <p>This blog shares my AWS cloud journey, architecture designs, DevOps tips, and more. Stay tuned!</p>
