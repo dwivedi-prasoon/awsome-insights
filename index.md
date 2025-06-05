@@ -3,7 +3,7 @@ layout: home
 title: "Welcome to AWSome Insights"
 ---
 
-<img src="https://via.placeholder.com/1000x200?text=AWSome+Insights+Blog" alt="AWSome Banner" style="width:100%;border-radius:12px;"/>
+<img src="/assets/images/awsome-banner.jpg" alt="AWSome Insights Banner" style="width:100%;border-radius:8px;margin-bottom:20px;" />
 
 Welcome to **AWSome Insights** — a personal blog by *Prasoon Dwivedi*.
 
