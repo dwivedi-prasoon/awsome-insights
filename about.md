@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm **Prasoon Dwivedi**, a Senior Solutions Architect passionate about building secure, scalable, and cost-effective solutions on AWS.
+Hi, I'm **Prasoon Dwivedi**, a Senior Solutions Architect passionate about AWS cloud-native design, DevOps, and secure, scalable architectures.
 
-Through this blog, I aim to share my hands-on experience, best practices, and lessons learned to help other cloud builders grow.
+Through *AWSome Insights*, I share real experiences, patterns, and philosophies that shape reliable cloud solutions.
 
-You can find me on [LinkedIn](https://linkedin.com) or email me at [dwivedi.prasoon@gmail.com](mailto:dwivedi.prasoon@gmail.com).
+You can connect with me on [LinkedIn](https://linkedin.com) or email me at [dwivedi.prasoon@gmail.com](mailto:dwivedi.prasoon@gmail.com).
